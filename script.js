@@ -201,6 +201,26 @@ const frases = [
 
 "Hoy tendrás un momento de mucha paz",
 
+"tu pareja te engaña",
+
+"ya olivda@ solo te uso",
+
+"moriras solter@",
+
+"te equivocaste de carrera",
+
+"compra otro cupcake",
+
+"si compras mas tendras tu pareja soñada",
+
+"para un mal momento un buen cupcake",
+
+"no es mala suerte solo eres familia de judas",
+
+"tienes talento solo descubre en que",
+
+"la intelegiencia te persigue per tu eres mas rapido",
+
 "Algo curioso ocurrirá esta noche"
 
 
